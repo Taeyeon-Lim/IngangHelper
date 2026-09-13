@@ -1,7 +1,10 @@
 <div align="center">
   
-# 👨‍🏫 인강헬퍼 (IngangHelper)
-__학생과 선생님을 연결하고,<br/>선생님의 일정 관리를 돕는<br/>교육 플랫폼__
+# 👨‍🏫 인강헬퍼 (IngangHelper, 2022.09 ~ 2023.09)
+
+
+__학생과 선생님을 연결하고,<br/>선생님의 일정 관리를 돕는 지원 플랫폼__
+
 
 <img width="690" src="https://github.com/Taeyeon-Lim/IngangHelper/assets/54977412/b13cdb0b-0659-4ea4-a9cc-82435d79a331.png" />  
  
